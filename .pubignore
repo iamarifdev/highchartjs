@@ -1,0 +1,5 @@
+img/high_chart_logo.jpg
+.idea/
+highchartjs.iml
+pubspec.lock
+example/pubspec.lock
